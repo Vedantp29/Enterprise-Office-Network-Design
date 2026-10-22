@@ -2,14 +2,6 @@
 
 > A fully functional enterprise-grade network simulation built using Cisco Packet Tracer — featuring VLAN segmentation, inter-VLAN routing, port security, SSH access, and DHCP.
 
----
-
-## 👥 Team Members
-
- AmaanAli Motiwala | [@AmaanaliMotiwala0109](https://github.com/AmaanaliMotiwala0109) |
- Vedant Patel | [@Vedantp29](https://github.com/Vedantp29) |
-
----
 
 ## 📌 Project Overview
 
